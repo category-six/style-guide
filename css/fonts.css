@@ -1,0 +1,183 @@
+/*
+  EF Style Guide - Fonts
+
+  This includes all weights of Roboto and Roboto Slab for testing only. We
+  will need to decide on which weights we absolutely need to avoid adding
+  unnecessary page weight.
+
+*/
+
+
+/* ROBOTO (font-style: normal) */
+
+/* Black */
+
+@font-face {
+    font-family: 'Roboto Black';
+    src: url('../fonts/roboto/Roboto-Black-webfont.woff') format('woff'),
+         url('../fonts/roboto/Roboto-Black-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* Bold */
+
+@font-face {
+    font-family: 'Roboto Bold';
+    src: url('../fonts/roboto/Roboto-Bold-webfont.woff') format('woff'),
+         url('../fonts/roboto/Roboto-Bold-webfont.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+/* Medium */
+
+@font-face {
+    font-family: 'Roboto Medium';
+    src: url('../fonts/roboto/Roboto-Medium-webfont.woff') format('woff'),
+         url('../fonts/roboto/Roboto-Medium-webfont.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+/* Regular */
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/roboto/Roboto-Regular-webfont.woff') format('woff'),
+       url('../fonts/roboto/Roboto-Regular-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* Light */
+
+@font-face {
+    font-family: 'Roboto Light';
+    src: url('../fonts/roboto/Roboto-Light-webfont.woff') format('woff'),
+         url('../fonts/roboto/Roboto-Light-webfont.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+/* Thin */
+
+@font-face {
+    font-family: 'Roboto Thin';
+    src: url('../fonts/roboto/Roboto-Thin-webfont.woff') format('woff'),
+         url('../fonts/roboto/Roboto-Thin-webfont.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+
+/* ROBOTO (font-style: italic) */
+
+/* BlackItalic */
+
+@font-face {
+    font-family: 'Roboto BlackItalic';
+    src: url('../fonts/roboto/Roboto-BlackItalic-webfont.woff') format('woff'),
+         url('../fonts/roboto/Roboto-BlackItalic-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* BoldItalic */
+
+@font-face {
+    font-family: 'Roboto BoldItalic';
+    src: url('../fonts/roboto/Roboto-BoldItalic-webfont.woff') format('woff'),
+         url('../fonts/roboto/Roboto-BoldItalic-webfont.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+/* MediumItalic */
+
+@font-face {
+    font-family: 'Roboto MediumItalic';
+    src: url('../fonts/roboto/Roboto-MediumItalic-webfont.woff') format('woff'),
+         url('../fonts/roboto/Roboto-MediumItalic-webfont.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+/* LightItalic */
+
+@font-face {
+    font-family: 'Roboto LightItalic';
+    src: url('../fonts/roboto/Roboto-LightItalic-webfont.woff') format('woff'),
+         url('../fonts/roboto/Roboto-LightItalic-webfont.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+/* ThinItalic */
+
+@font-face {
+    font-family: 'Roboto ThinItalic';
+    src: url('../fonts/roboto/Roboto-ThinItalic-webfont.woff') format('woff'),
+         url('../fonts/roboto/Roboto-ThinItalic-webfont.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+
+
+/* ROBOTO SLAB */
+
+
+/* Bold */
+
+@font-face {
+  font-family: 'roboto_slabbold';
+  src: url('../fonts/robotoslab/RobotoSlab-Bold-webfont.woff') format('woff'),
+       url('../fonts/robotoslab/RobotoSlab-Bold-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* Regular */
+
+@font-face {
+  font-family: 'roboto_slabregular';
+  src: url('../fonts/robotoslab/RobotoSlab-Regular-webfont.woff') format('woff'),
+       url('../fonts/robotoslab/RobotoSlab-Regular-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* Light */
+
+@font-face {
+  font-family: 'roboto_slablight';
+  src: url('../fonts/robotoslab/RobotoSlab-Light-webfont.woff') format('woff'),
+       url('../fonts/robotoslab/RobotoSlab-Light-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* Thin */
+
+@font-face {
+  font-family: 'roboto_slabthin';
+  src: url('../fonts/robotoslab/RobotoSlab-Thin-webfont.woff') format('woff'),
+       url('../fonts/robotoslab/RobotoSlab-Thin-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
